@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/shompys/github-package/compare/github-package-test-v1.0.1...github-package-test-v1.0.2) (2025-05-28)
+
+
+### Bug Fixes 🐛
+
+* private deleted ([86ef46f](https://github.com/shompys/github-package/commit/86ef46ff7b091ec95cad7e5546904613def2796c))
+
 ## [1.0.1](https://github.com/shompys/github-package/compare/github-package-test-v1.0.0...github-package-test-v1.0.1) (2025-05-28)
 
 
