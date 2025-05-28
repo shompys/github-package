@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/shompys/github-package/compare/github-package-test-v1.0.0...github-package-test-v1.0.1) (2025-05-28)
+
+
+### Bug Fixes 🐛
+
+* mas ajustecitos ([669ca45](https://github.com/shompys/github-package/commit/669ca455ac72bc0bdbb3cb9f1438023108e0625e))
+
 ## 1.0.0 (2025-05-28)
 
 
